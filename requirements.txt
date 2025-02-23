@@ -1,0 +1,9 @@
+pymupdf
+pytesseract
+opencv-python
+numpy
+Pillow
+sentence-transformers
+faiss-cpu
+googletrans==4.0.0-rc1
+streamlit
